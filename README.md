@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Moud Bouzid</h1>
-<p>I'm a Mobile Developer, from Morocco 🇲🇦</p>
+<p>I'm a Mobile Developer, from Morocco 🇲🇦.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
@@ -14,6 +14,8 @@
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href=""></a></li>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/mouad-bouzid-82a389255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mouadbouzid&show_icons=true&locale=en" alt="mouadbouzid" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mouadbouzid&" alt="mouadbouzid" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mouadbouzid&show_icons=true&locale=en&layout=compact" alt="mouadbouzid" /></p>
